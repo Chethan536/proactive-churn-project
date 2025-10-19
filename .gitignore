@@ -3,6 +3,7 @@ venv/
 
 # MLflow tracking
 mlruns/
+mlartifacts/
 
 # Python cache
 __pycache__/
@@ -10,3 +11,6 @@ __pycache__/
 
 # Notebook checkpoints
 .ipynb_checkpoints/
+
+# Saved models
+*.pkl
